@@ -1,0 +1,15 @@
+C:\Users\79969\Desktop\C# webinar\6Task\bin\Debug\net6.0\6Task.exe
+C:\Users\79969\Desktop\C# webinar\6Task\bin\Debug\net6.0\6Task.deps.json
+C:\Users\79969\Desktop\C# webinar\6Task\bin\Debug\net6.0\6Task.runtimeconfig.json
+C:\Users\79969\Desktop\C# webinar\6Task\bin\Debug\net6.0\6Task.dll
+C:\Users\79969\Desktop\C# webinar\6Task\bin\Debug\net6.0\6Task.pdb
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\6Task.csproj.AssemblyReference.cache
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\6Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\6Task.AssemblyInfoInputs.cache
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\6Task.AssemblyInfo.cs
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\6Task.csproj.CoreCompileInputs.cache
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\6Task.dll
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\refint\6Task.dll
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\6Task.pdb
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\6Task.genruntimeconfig.cache
+C:\Users\79969\Desktop\C# webinar\6Task\obj\Debug\net6.0\ref\6Task.dll
