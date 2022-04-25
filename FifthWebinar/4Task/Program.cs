@@ -16,7 +16,7 @@ for(int i = 0; i < numbers.Length; i++)
         count++;
     }
 }
-Console.Write($"Количество элементов интервале от 10 до 99: {a}");
+Console.Write($"Количество элементов интервале от 10 до 99: {count}");
 
 void FillArray(int[] array)
 {
