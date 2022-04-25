@@ -7,13 +7,13 @@
 int[] numbers = new int[123];
 FillArray(numbers);
 WriteArray(numbers);
-int a = 0;
+int count = 0;
 
 for(int i = 0; i < numbers.Length; i++)
 {
     if(numbers[i] >= 10 && numbers[i] <= 99)
     {
-        a++;
+        count++;
     }
 }
 Console.Write($"Количество элементов интервале от 10 до 99: {a}");
