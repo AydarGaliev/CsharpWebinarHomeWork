@@ -6,7 +6,7 @@ FillArray(Fibonacci);
 WriteArray(Fibonacci);
 
 int[] newArray = new int [length];
-for(int i = 0; i < length; i++)
+for(int i = 0; i < newArray.length; i++)
 {
     newArray[i] = Fibonacci[i];
 }
