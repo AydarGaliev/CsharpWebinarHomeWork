@@ -1,0 +1,15 @@
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\bin\Debug\net6.0\7TaskDZ.exe
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\bin\Debug\net6.0\7TaskDZ.deps.json
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\bin\Debug\net6.0\7TaskDZ.runtimeconfig.json
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\bin\Debug\net6.0\7TaskDZ.dll
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\bin\Debug\net6.0\7TaskDZ.pdb
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\7TaskDZ.csproj.AssemblyReference.cache
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\7TaskDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\7TaskDZ.AssemblyInfoInputs.cache
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\7TaskDZ.AssemblyInfo.cs
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\7TaskDZ.csproj.CoreCompileInputs.cache
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\7TaskDZ.dll
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\refint\7TaskDZ.dll
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\7TaskDZ.pdb
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\7TaskDZ.genruntimeconfig.cache
+C:\Users\79969\Desktop\C# webinar\SixthWebinar\7TaskDZ\obj\Debug\net6.0\ref\7TaskDZ.dll
