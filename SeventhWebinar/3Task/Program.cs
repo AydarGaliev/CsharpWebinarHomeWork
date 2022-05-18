@@ -21,3 +21,29 @@ for(int i = 0; i < m; i++)
     }
     Console.WriteLine();
 }
+
+Console.WriteLine();
+
+for(int i = 0; i < m; i++)
+{
+    for(int j = 0; j < n; j++)
+    {
+        if(i % 2 == 1 && j % 2 == 1 && i!=0 && j!=0)
+        {
+            array[i, j] = array[i, j] * array[i, j];
+        }
+        else
+        {
+            continue;
+        }
+    }
+}
+
+for(int i = 0; i < m; i++)
+{
+    for(int j = 0; j < n; j++)
+    {
+        Console.Write(array[i, j] + " ");
+    }
+    Console.WriteLine();
+}
